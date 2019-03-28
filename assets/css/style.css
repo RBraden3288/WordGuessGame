@@ -1,0 +1,37 @@
+body {
+    background-color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:#C79F27;
+    text-align: center;
+}
+
+
+.jumbotron {
+    background: url('/Users/randall/Desktop/BOOTCAMP-HOMEWORK/WordGuessGame/assets/images/oscars_2011_a_l.jpg') repeat center top #FFF;
+    opacity: .75;
+    text-shadow: #fff;
+}
+
+
+/* Controls all other fonts exculding header */
+.container {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+/* Controls fonts of titles */
+.column-title {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #FFF;
+    text-align: center;
+}
+
+.button {
+    background-color: #FFF;
+    width: 40px;
+    height: 40px;
+}
+
+.letter {
+    color:#C79F27
+}
